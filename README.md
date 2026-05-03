@@ -4,7 +4,7 @@ A fully functional **Amazon Clone** built using **HTML, CSS, and JavaScript**, f
 
 ## 🚀 Live Demo
 
-👉 https://eswar-89.github.io/AmazonClone/ _(update if needed)_
+👉 https://eswar-89.github.io/AmazonClone/
 
 ---
 
